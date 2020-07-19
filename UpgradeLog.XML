@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ANotas">
+</Property><Property Name="Archivo de la solución" Value="D:\CRISTIAN\ANotas.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\CRISTIAN\ANotas.suo">
+</Property><Property Name="Date" Value="domingo, 20 de junio de 2010">
+</Property><Property Name="Time" Value="8:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ANotas.sln" Description="La copia D:\CRISTIAN\Backup\ANotas.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ANotas.suo" Description="La copia D:\CRISTIAN\Backup\ANotas.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="ANotas.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\CRISTIAN\Backup\ANotas.vbproj">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="Conexion.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\Conexion.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmBoleta.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmBoleta.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmBoleta.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmBoleta.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmBuscar.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmBuscar.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmBuscar.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmBuscar.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmInforme.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmInforme.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmInforme.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmInforme.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmRegistro.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmRegistro.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmRegistro.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmRegistro.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmBoleta.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmBoleta.resx">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmBuscar.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmBuscar.resx">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmInforme.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmInforme.resx">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="FrmRegistro.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\FrmRegistro.resx">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\CRISTIAN\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="ANotas.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ANotas" Source="ANotas.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ANotas.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ANotas.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ANotas" Source="ANotas.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

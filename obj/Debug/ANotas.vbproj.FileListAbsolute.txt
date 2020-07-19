@@ -1,0 +1,15 @@
+D:\CRISTIAN\obj\Debug\ANotas.Form2.resources
+D:\CRISTIAN\obj\Debug\ANotas.FrmBoleta.resources
+D:\CRISTIAN\obj\Debug\ANotas.FrmBuscar.resources
+D:\CRISTIAN\obj\Debug\ANotas.FrmInforme.resources
+D:\CRISTIAN\obj\Debug\ANotas.FrmRegistro.resources
+D:\CRISTIAN\obj\Debug\ANotas.Resources.resources
+D:\CRISTIAN\obj\Debug\ANotas.vbproj.GenerateResource.cache
+D:\CRISTIAN\obj\Debug\ANotas.vbprojAssemblyReference.cache
+D:\CRISTIAN\bin\Debug\ANotas.exe.config
+D:\CRISTIAN\bin\Debug\ANotas.exe
+D:\CRISTIAN\bin\Debug\ANotas.pdb
+D:\CRISTIAN\bin\Debug\ANotas.xml
+D:\CRISTIAN\obj\Debug\ANotas.exe
+D:\CRISTIAN\obj\Debug\ANotas.xml
+D:\CRISTIAN\obj\Debug\ANotas.pdb

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ANotas
+</name>
+</assembly>
+<members>
+<member name="T:ANotas.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ANotas.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ANotas.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.AlumnoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.CicloDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.CursoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.EspecialidadDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.MatriculaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.NotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.ProfesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.RegistroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.TurnoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.AlumnoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.CicloRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.CursoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.EspecialidadRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.MatriculaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.NotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.ProfesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.RegistroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.TurnoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.AlumnoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.CicloRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.CursoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.EspecialidadRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.MatriculaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.NotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.ProfesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.RegistroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSet.TurnoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.AlumnoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.CicloTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.CursoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.EspecialidadTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.MatriculaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.NotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.ProfesorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.RegistroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.TurnoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ANotas.BDNotasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ANotas.BDNotasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ANotas.BDNotasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.UpdateAll(ANotas.BDNotasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ANotas.BDNotasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
